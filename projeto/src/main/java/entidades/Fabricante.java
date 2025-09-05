@@ -11,5 +11,5 @@ public class Fabricante {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Integer codigo;
 
-    public String name;
+    public String nome;
 }
